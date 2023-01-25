@@ -16,7 +16,7 @@ else:
 
 # Exercise 3
 var = int(input())
-if isin(var) == str:
+if type(var) == str:
     print("string")
 elif type(var) == int:
     print("integer")
@@ -82,7 +82,7 @@ elif grade >= 40:
 else:
     print('Fail')
 
-Exercise 13
+# Exercise 13
 i = 1.0
 while i <= 2.0:
     print(round(i, 2))
