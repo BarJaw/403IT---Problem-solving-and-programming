@@ -1,0 +1,69 @@
+Programming Exercises
+Exercise 1*. Write a Python program to check if a number is positive, negative or zero.
+Exercise 2*. Write code to check whether a number is odd or even.
+Exercise 3. Write a Python program to check whether the variable is integer or string.
+Exercise 4. Write a Python program to check whether a string is numeric.
+Exercise 5. Write a Python program to calculate body mass index.
+Exercise 6*. Write code to output odd numbers only between 1 and 100.
+Exercise 7. Write a program to count the number of even and odd numbers from a series of numbers defined by the user.
+Exercise 8. Write a program that accepts a word from the user and reverse it.
+Exercise 9*. Write a function to convert degrees Celsius to Fahrenheit. 
+Exercise 10*. Write a function that checks if a list contains a certain number. 
+Exercise 11*. Write a program to guess a password entered by the user.
+Exercise 12*. Write some code to enable a CU student to enter their grade for an assignment. Based on their input, you will inform the student on whether they have passed or failed the assignment. You will also show them whether they have achieved one of the following: 
+1st class - 70% and over 
+2:1 - 60-69% 
+2:2 - 50-59% 
+3rd class - 40-49% 
+Fail - 40% and below
+
+Exercise 13. Write code to output numbers between 1.0 and 2.0 with a 0.01 increment.
+Exercise 14*. Write code where the computer randomly generates a number. Ask the user to guess the number and then tell them if he guessed it was too low, too high, or exactly correct. 
+Exercise 15*. Using list comprehension to return the subset of odd numbers from a list of numbers.
+Exercise 16. Create a program that allows the user to enter a string as input and check whether it is a palindrome.
+Exercise 17. Starting from two lists, write a program that returns a list that contains only the items common to those lists.
+Exercise 18. Write a program that accepts the user's first and last name and print them in reverse order with a space between them.
+Exercise 19*. Write a program to accept a filename from the user and print the extension of that.
+Sample filename : abc.java
+Output : java
+
+Exercise 20*. Write a Python program to check the validity of password input by users. 
+Validation :
+
+At least 1 letter between [a-z] and 1 letter between [A-Z].
+At least 1 number between [0-9].
+At least 1 character from [$#@].
+Minimum length 6 characters.
+Maximum length 16 characters.
+
+Exercise 21*. Write a Python program to convert month name to a number of days.
+Expected Output:
+
+List of months: January, February, March, April, May, June, July, August, September, October, November, December                                
+Input the name of Month: February                                       
+No. of days: 28/29 days
+
+Exercise 22*. Write a Python program to construct the following pattern, using a nested loop number.
+Expected Output:
+
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+
+Exercise 23.  Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
