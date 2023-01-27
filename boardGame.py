@@ -23,7 +23,7 @@ class Game:
 
 game = Game()
 start_time = time()
-print(game.winning_token)
+# print(game.winning_token)
 while (game.tries > 0) and (game.won is False) and (time() - start_time < 60):
     print('Time left:', round(start_time + 60 - time(), 2))
 
