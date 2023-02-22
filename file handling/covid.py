@@ -9,8 +9,8 @@ def country_to_continent(country_name):
     return country_continent_name
 
 # Example
-country_name = 'Australia'
-print(country_to_continent(country_name))
+# country_name = 'Australia'
+# print(country_to_continent(country_name))
 
 
 with open('file handling/covid_worldwide.csv', 'r', encoding='UTF-8') as file:
@@ -30,7 +30,6 @@ with open('file handling/covid_worldwide.csv', 'r', encoding='UTF-8') as file:
         'North America' : 0,
         'South America' : 0,
         'Oceania' : 0
-
     }
 
     cfr = {}
