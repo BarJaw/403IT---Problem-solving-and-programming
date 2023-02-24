@@ -1,3 +1,0 @@
-# Crack the password
-
-
